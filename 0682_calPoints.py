@@ -1,3 +1,4 @@
+
 class Solution:
     def calPoints(self, ops: [str]) -> int:
         ans = 0
